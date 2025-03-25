@@ -18,6 +18,6 @@
 3. use ai to control the coordination of robots: <br>
     3.1 use swarms to move objects. <br>
     3.2 use swarm to get from point a to point b using coordinaton between the robot capabilities. **(denied)** <br> 
-    3.3 use swarms to get robots to coordinate and build something architectural. project iaac 'minibuilders' <br> 
+    3.3 use swarms to get robots to coordinate and build something architectural. **(accepted)** project iaac 'minibuilders' <br> 
 
-4. translating flat drawings into drawings in not planar surfaces.
+4. translating flat drawings into drawings in not planar surfaces. **(accepted)**
