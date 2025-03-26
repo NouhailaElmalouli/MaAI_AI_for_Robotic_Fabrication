@@ -21,3 +21,12 @@
     3.3 use swarms to get robots to coordinate and build something architectural. **(accepted)** project iaac 'minibuilders' <br> 
 
 4. translating flat drawings into drawings in not planar surfaces. **(accepted)**
+
+
+# IDEAS
+
+1. OPTIMIZING THE MOVEMENT OF A ROBOTIC ARM BY USING GENETIC ALGORITHMS
+
+2. OPTIMISING THE TOOLPATH AF  ROBOTIC ARM BY USING AGENTS
+
+3. USING LLMS AND VLMS TO MAKE A ROBOT UNDERSTAND HUMAN VOICE AND BODY COMMANDS.
