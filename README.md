@@ -30,3 +30,11 @@
 2. OPTIMISING THE TOOLPATH AF  ROBOTIC ARM BY USING AGENTS
 
 3. USING LLMS AND VLMS TO MAKE A ROBOT UNDERSTAND HUMAN VOICE AND BODY COMMANDS.
+
+
+# Proposal:
+
+**What?:**
+
+**How?:**
+1. using multivariable polinomial regression.
