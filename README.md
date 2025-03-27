@@ -51,7 +51,16 @@ Testing and Training happens with csv files and numerical data from both:
     -The documentation from the physical printing 
 
 
-**Interpretation of Results**
+**Results**
+
+Failed Training Prediction with small dataset:
+
+![Predicted vs Real Plot](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/predvsreal.png?raw=true)
+
+Successful Training Prediction with larger dataset:
+
+![Predicted vs Real Plot 2](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/predvsreal_2.png?raw=true)
+
 
 
 
