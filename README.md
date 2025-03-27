@@ -34,7 +34,8 @@
 
 **DATA SOURCE**
 3D Printing of clay vase model and analysis
-<img src="https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/ai%20for%20robotic%20fabrication%20-%20Frame%203.jpg?raw=true" width="400" align="left"/>
+
+<img src="https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/ai%20for%20robotic%20fabrication%20-%20Frame%203.jpg?raw=true" width="400" align="center"/>
 ![Joint Differential Marcos](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/joint%20differential%20marcos/combined.png?raw=true)
 ![Joint Differential Plot](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/joint%20differential%20yashashvy/combined.png?raw=true)
 
