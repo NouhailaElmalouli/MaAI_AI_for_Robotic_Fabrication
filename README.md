@@ -9,7 +9,18 @@
 - Misra Ozgok <br>
 - Elena Papakosta <br>
 
-**IDEAS (BRAINSTORMING)**
+**WHAT?**
+🔍 We aim to develop a regression model that predicts the 6-joint configurations (joint coordination) of an ABB robotic arm during 3D clay printing, based on simulated toolpath data and actual printed movement data.
+
+**WHY?**
+🎯 To identify and learn the discrepancies between simulated and real joint movements, enabling more accurate motion planning, error correction, and improved robotic fabrication outcomes.
+
+**HOW?**
+🛠️ By collecting and preprocessing joint angle data from Rhino-modeled toolpaths, RoboStudio simulations, and post-printing movements, we train a regression model through polynomial or linear regression to predict joint values for given toolpath positions, enabling us to analyze, anticipate and prospectively refine robotic motion.
+
+
+
+
 
 1. trasnforming a physiscal object into a dynamic 3d geometry through the use of sensing tools.
 
