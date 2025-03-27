@@ -21,9 +21,7 @@
 
 🛠️ By collecting and preprocessing joint angle data from Rhino-modeled toolpaths, RoboStudio simulations, and post-printing movements, we train a regression model through polynomial or linear regression to predict joint values for given toolpath positions, enabling us to analyze, anticipate and prospectively refine robotic motion.
 
-
-![Robotic Fabrication Preview](https://raw.githubusercontent.com/PaintDumpster/ai_for_robotic_fabrication/main/Images/ai%20for%20robotic%20fabrication%20-%20Frame%201.jpg)
-
+![Robotic Fabrication Frame 2](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/ai%20for%20robotic%20fabrication%20-%20Frame%202.jpg?raw=true)
 
 
 **EXPECTATIONS OF CODE?**
@@ -35,9 +33,11 @@
 -Keep code well structured and documented for easy updates and presentation
 
 **DATA SOURCE**
+3D Printing of clay vase model and analysis
+![Robotic Fabrication Frame 3](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/ai%20for%20robotic%20fabrication%20-%20Frame%203.jpg?raw=true)
+![Joint Differential Marcos](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/joint%20differential%20marcos/combined.png?raw=true)
+![Joint Differential Plot](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/joint%20differential%20yashashvy/combined.png?raw=true)
 
-3D Printing of clay vase model
-![Robotic Fabrication Preview]
 
 
 **How do we test/simulate?**
@@ -47,7 +47,7 @@ Testing and Training happens with csv files and numerical data from both:
     -The documentation from the physical printing 
 
 
-**HInterpretation of Results**
+**Interpretation of Results**
 
 
 
