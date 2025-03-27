@@ -51,15 +51,23 @@ Testing and Training happens with csv files and numerical data from both:
     -The documentation from the physical printing 
 
 
-**Results**
+**RESULTS**
 
-Failed Training Prediction with small dataset:
+**Failed Training Prediction with small dataset:**
 
 ![Predicted vs Real Plot 2](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/predvsreal_2.png?raw=true)
 
-Successful Training Prediction with larger dataset:
+    - The model is not really understanding what is happening in joint 6 and instead mimics what is happening in the dataset.
+    - The range for values of degrees of rotations is spanning from 0 to -40
+
+**Successful Training Prediction with larger dataset:**
 
 ![Predicted vs Real Plot](https://github.com/PaintDumpster/ai_for_robotic_fabrication/blob/main/Images/plots/predvsreal.png?raw=true)
+
+    -The range for values of degrees of rotations is spanning from 0 to -200, predicting an important role for the starting degree of the end effector 
+    -The gap in the plot might be because it mirrored the starting point.
+    -The accuracy is increased except for the starting point of the printing process which is an interesting point that it is predicting the joint's beginning action.
+
 
 
 
