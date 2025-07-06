@@ -1,13 +1,18 @@
 # **AI FOR ROBOTIC FABRICATION**
 
 
-**PROJECT MEMBERS:**
 
-- Ramy Anka <br>
-- Salvador Cantuarias <br>
-- Nouhaila ELMALOULI <br>
-- Misra Ozgok <br>
-- Elena Papakosta <br>
+PROJECT MEMBERS:
+
+- Ramy Anka
+
+- Salvador Cantuarias
+
+- Nouhaila ELMALOULI
+
+- Misra Ozgok
+
+- Elena Papakosta
 
 **WHAT?**
 
