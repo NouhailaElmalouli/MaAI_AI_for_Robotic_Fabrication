@@ -5,7 +5,7 @@
 
 - Ramy Anka <br>
 - Salvador Cantuarias <br>
-- Nouhaila Elmalouli <br>
+- Nouhaila ELMALOULI <br>
 - Misra Ozgok <br>
 - Elena Papakosta <br>
 
